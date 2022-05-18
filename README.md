@@ -10,11 +10,8 @@
 <!-- START_SECTION:wakaX -->
 <!--END_SECTION:wakaX-->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/DhiasAchy/DhiasAchy)
-![pv](https://pageview.vercel.app/?github_user=DhiasAchy)
-
 <!--
-**vstacked/vstacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DhiasAchy/DhiasAchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

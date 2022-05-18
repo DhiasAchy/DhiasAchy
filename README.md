@@ -3,9 +3,6 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=DhiasAchy&show_icons=true&theme=tokyonight&count_private=true&custom_title=GitHub Stats&hide_border=true"
    width="48%"/>
-<img 
-   src="https://github-readme-stats.vercel.app/api/wakatime?username=DhiasAchy&theme=tokyonight&langs_count=5&range=last_7_days&hide_border=true"
-   width="48%"/>
 
 <!-- START_SECTION:wakaX -->
 <!--END_SECTION:wakaX-->

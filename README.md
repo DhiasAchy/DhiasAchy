@@ -4,7 +4,7 @@
    src="https://github-readme-stats.vercel.app/api?username=DhiasAchy&show_icons=true&theme=tokyonight&count_private=true&custom_title=GitHub Stats&hide_border=true"
    width="48%"/>
    
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285735379740)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282135604800)
 
 <!--
 **DhiasAchy/DhiasAchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

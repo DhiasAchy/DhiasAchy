@@ -4,7 +4,7 @@
    src="https://github-readme-stats.vercel.app/api?username=DhiasAchy&show_icons=true&theme=tokyonight&count_private=true&custom_title=GitHub Stats&hide_border=true"
    width="48%"/>
    
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=baydim&exclude_repo=cem_clipnet&layout=compact&theme=radical)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=DhiasAchy&exclude_repo=cem_clipnet&layout=compact&theme=radical)
    
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282135604800)
 

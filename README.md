@@ -1,16 +1,16 @@
-<h1 align="center">Halo 👋, Saya Mohamad Rizky Adhiasta (Mas Dhias)</h1>
-<h3 align="center">Tech enthusiast | Visionary builder | Modern minimalist</h3>
+<h1 align="center">Halo 👋, Saya Mohamad Rizky Adhiasta (Dhias)</h1>
+<h3 align="center">Tech enthusiast | Visionary builder | Modern Minimalist | Business Development | Website Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+GitHub+Saya!;Saya+suka+membangun+solusi+berbasis+web;Otomatisasi+%2B+AI+untuk+hidup+lebih+mudah" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+GitHub+Saya!;Saya+suka+membangun+solusi+berbasis+web;Ootomatisasi+%2B+AI+untuk+hidup+lebih+mudah" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💡 Tentang Saya
-- 🔭 Sedang membangun aplikasi **keuangan pribadi berbasis web + AI**
+- 🔭 Sedang membangun aplikasi **project pribadi berbasis web + AI**
 - 🌱 Belajar dan eksplorasi **Laravel**, **React**, **jQuery**, dan **AI Assistant**
-- 🧠 Prinsip: *“Membuat yang rumit jadi sederhana dan bermanfaat.”*
+- 🧠 Prinsip: *“Membuat yang rumit jadi sederhana.”*
 - 🎯 Tujuan: Solusi digital yang **aman, mudah, halal, dan tidak merugikan siapa pun**
 
 ---
@@ -38,13 +38,13 @@
 ---
 
 ### 📬 Hubungi Saya
-- ✉️ Email: **masdhias.dev@gmail.com**
+- ✉️ Email: **emailkerjadhias@gmail.com**
 - 💼 LinkedIn: *(boleh ditambahkan jika ada)*
 - 🧠 Portfolio: *(jika ada website, Notion, atau landing page)*
 
 ---
 
 > *“Bermimpi besar boleh, tapi membangun nyata lebih berdampak.”* 🚀  
-> *— Mas Dhias*
+> *— Dhias*
 
 ---

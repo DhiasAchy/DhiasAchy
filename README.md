@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -38,7 +39,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DhiasAchy&theme=tokyonight" alt="GitHub Streak" />
 </p>
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=DhiasAchy&exclude_repo=cem_clipnet&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiasAchy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📬 Hubungi Saya

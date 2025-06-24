@@ -1,8 +1,9 @@
 <h1 align="center">Halo 👋, Saya Mohamad Rizky Adhiasta (Dhias)</h1>
-<h3 align="center">Tech enthusiast | Visionary builder | Modern Minimalist | Business Development | Website Developer</h3>
+<h3 align="center">Tech enthusiast | Business Development | Website Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+GitHub+Saya!;Saya+suka+membangun+solusi+berbasis+web;Ootomatisasi+%2B+AI+untuk+hidup+lebih+mudah" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Selamat+Datang+di+GitHub+Saya!;Saya+suka+membangun+solusi+berbasis+web;Ootomatisasi+%2B+AI+untuk+hidup+lebih+mudah" alt="Typing SVG" /> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Selamat+Datang" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +12,7 @@
 - 🔭 Sedang membangun aplikasi **project pribadi berbasis web + AI**
 - 🌱 Belajar dan eksplorasi **Laravel**, **React**, **jQuery**, dan **AI Assistant**
 - 🧠 Prinsip: *“Membuat yang rumit jadi sederhana.”*
-- 🎯 Tujuan: Solusi digital yang **aman, mudah, halal, dan tidak merugikan siapa pun**
+<!-- 🎯 Tujuan: Solusi digital yang **aman, mudah, halal, dan tidak merugikan siapa pun** -->
 
 ---
 
@@ -33,12 +34,12 @@
 ---
 
 ### 📈 Statistik GitHub
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhiasAchy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DhiasAchy&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiasAchy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -46,12 +47,12 @@
 
 ### 📬 Hubungi Saya
 - ✉️ Email: **emailkerjadhias@gmail.com**
-- 💼 LinkedIn: *(-)*
-- 🧠 Portfolio: *(-)*
+<!-- - 💼 LinkedIn: *(-)*
+- 🧠 Portfolio: *(-)* -->
 
----
+<!-- ---
 
 > *“Bermimpi besar boleh, tapi membangun nyata lebih berdampak.”* 🚀  
 > *— Dhias*
 
----
+--- -->
